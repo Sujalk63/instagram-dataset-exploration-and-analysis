@@ -32,17 +32,18 @@ This project will remain active and **continuously updated** with new insights �
 
 In this analysis, I explored the relationship between **Instagram professional labels** 💼 and **mean follower counts** 📊.
 
-## Key Insights 💡:
+### Key Insights 💡:
 - **"Computers"** leads with **7.4M followers**, while **"Games/Toys"** has **1.7M**, showing a wide range in audience size across professions and more.
 - While labels like **"Computers"** (**7.4M followers**), **"Political party"** (**7.2M followers**), and **"Massage therapist"** (**6.5M followers**) dominate in follower count.
-## Code link: [ProfessionalLabelsVsFollowerCount](./1_ProfessionalLabelsVsFollowerCount.ipynb)
-## Visual Representation:
+### Code link: [ProfessionalLabelsVsFollowerCount](./1_ProfessionalLabelsVsFollowerCount.ipynb)
+### Visual Representation: 
+
 ![Follower Count Analysis](/images/ProfessionalLabelsVsFollowerCount.png)
 
 ---
 
-## 👤 Author & Contact
 
+## 👤 Author & Contact
 **Sujal Karmakar**  
 📧 Email: [sujalkarmakar6363@gmail.com](mailto:sujalkarmakar6363@gmail.com)
 
