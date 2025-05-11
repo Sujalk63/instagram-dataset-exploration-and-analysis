@@ -33,8 +33,8 @@ This project will remain active and **continuously updated** with new insights �
 In this analysis, I explored the relationship between **Instagram professional labels** 💼 and **mean follower counts** 📊.
 
 ### Key Insights 💡:
-- **"Computers"** leads with **7.4M followers**, while **"Games/Toys"** has **1.7M**, showing a wide range in audience size across professions and more.
-- While labels like **"Computers"** (**7.4M followers**), **"Political party"** (**7.2M followers**), and **"Massage therapist"** (**6.5M followers**) dominate in follower count.
+- While labels like **Comedian** and **Creative Director** have an average of **~700K followers**, others like **Gaming Video Creator** reach up to **~5.8M followers**, showing a wide variation.
+- **Gaming Video Creators** lead the chart with the **highest average follower count**, suggesting strong engagement in that niche.
 ### Code link: [ProfessionalLabelsVsFollowerCount](./1_ProfessionalLabelsVsFollowerCount.ipynb)
 ### Visual Representation: 
 
