@@ -28,13 +28,15 @@ This project will remain active and **continuously updated** with new insights �
 
 ---
 
-## 1) Top 15 Professional Labels vs Follower Count 🔍
+## 1) Top 15 Trending Professions 🔥
 
 In this analysis, I explored the relationship between **Instagram professional labels** 💼 and **mean follower counts** 📊.
 
 ### Key Insights 💡:
-- While labels like **Comedian** and **Creative Director** have an average of **~700K followers**, others like **Gaming Video Creator** reach up to **~5.8M followers**, showing a wide variation.
-- **Gaming Video Creators** lead the chart with the **highest average follower count**, suggesting strong engagement in that niche.
+- **Comedian & Creative Director**: Average followers ~700K 🎭, steady but not extreme growth.  
+- **Gaming Video Creator**: Leading with **5.8M followers** 🎮, great for high engagement & reach.  
+- **Media, Actor, Scientist**: Followers range from **2M - 3M** 📊, offering broad audience potential.  
+
 ### Code link: [ProfessionalLabelsVsFollowerCount](./1_ProfessionalLabelsVsFollowerCount.ipynb)
 ### Visual Representation: 
 
