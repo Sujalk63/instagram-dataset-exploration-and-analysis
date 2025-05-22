@@ -21,10 +21,6 @@ This project will remain active and **continuously updated** with new insights �
 - _GitHub Repo:_ [Instagram Profile and Content Scraping](https://github.com/Sujalk63/InstaContentScraper)
 - _Soon available on Kaggle._
 
-### Example:
-
-Instead of considering accounts with 50 followers or 50M followers, we analyze those between **~2K and ~2.5M** — covering 80–90% of real creators.
-
 ## 1) Top 15 Trending Professions 🔥
 
 In this analysis, I explored the relationship between **Instagram professional labels** 💼 and **mean follower counts** 📊.
@@ -67,6 +63,10 @@ upper_bound = q3
 filtered_df = df[(df["Followers Count"] >= lower_bound) & (df["Followers Count"] <= upper_bound)]
 
 ```
+
+### Example:
+
+Instead of considering accounts with 50 followers or 50M followers, we analyze those between **~2K and ~2.5M** — covering 80–90% of real creators.
 
 ### Code link: [OutliersRemoved](./2_OutliersRemoved.ipynb)
 
